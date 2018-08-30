@@ -1,7 +1,7 @@
 # POSist-campus-drive
 Tried my best to create an efficient application that partially executes the given tasks.
 # Language used C++
-  # Add record to genesis record or down the line if not possible for genesis record.
+  	# Add record to genesis record or down the line if not possible for genesis record.
 	# Set of child records of a particular record.
 	# Creating child record from particular record 
 	# Encrypting Data.
